@@ -176,5 +176,8 @@ cython_debug/
 # Mac Files
 .DS_Store
 
+# CSV Exports for Tableau
+Exports/
+
 # US Accidents CSV File (too big for GitHub!)
 Data/US_Accidents_March23.csv

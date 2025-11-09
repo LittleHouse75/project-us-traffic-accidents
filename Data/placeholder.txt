@@ -1,2 +1,2 @@
-CSV file is too large for git. Can be downloaded from here:
+US Accidents CSV file is too large for git. Can be downloaded from here:
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
