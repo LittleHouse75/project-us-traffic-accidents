@@ -6,7 +6,13 @@
 
 # Traffic Analysis Findings
 
-[![Watch the video](https://img.youtube.com/vi/IVSJSS4_O3k/0.jpg)](https://youtu.be/IVSJSS4_O3k)
+<p align="center">
+  <a href="https://youtu.be/IVSJSS4_O3k">
+    <img src="./Images/PlaybackThumbnail.png" alt="Watch on YouTube" width="70%">
+  </a>
+  <br/>
+  <sub><em>Watch: 10‑min walkthrough of the Traffic Analysis Findings</em></sub>
+</p>
 
 ---
 
