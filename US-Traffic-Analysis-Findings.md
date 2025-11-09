@@ -7,7 +7,7 @@
 # Traffic Analysis Findings
 
 <p align="center">
-  <a href="https://youtu.be/IVSJSS4_O3k">
+  <a href="https://www.youtube.com/watch?v=U90AnBX5_gE">
     <img src="./Images/PlaybackThumbnail.png" alt="Watch on YouTube" width="70%">
   </a>
   <br/>
