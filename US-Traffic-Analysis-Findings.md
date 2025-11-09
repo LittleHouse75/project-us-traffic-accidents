@@ -34,12 +34,9 @@ Another growth area was balancing analysis with communication. I discovered that
 
 I also realized how much more I need to grow in statistical analysis. When it came time to validate findings, I had to attempt techniques like ANOVA and chi-square that I hadn’t fully learned yet. Understanding which tests apply to which kinds of data, and how to interpret them responsibly, is an area I want to strengthen. Lastly, I want to get better at building interactive dashboards that balance performance and depth, so users can explore the data without technical barriers.
 
-3. **2Future Improvements:**
+3. **Future Improvements:**
 
-Given more time and resources, I’d:
+If I had more time and resources, I’d take a closer look at the long-duration outliers we filtered out—accidents lasting more than 24 hours, especially in rural areas. Those extreme cases might highlight deeper issues in emergency response systems or resource availability. I’d also like to dig into South Carolina’s unusually high accident rate to understand what’s driving it, whether that’s weather, infrastructure, or something cultural or systemic.
 
-* analyze the long-duration outliers we excluded—accidents lasting over 24 hours, especially in rural areas. Those could reveal deeper issues in emergency response.
-* understand why South Carolina shows such a high accident rate.
-* rank the top 10  longitute-latitude accident hotspots in the US.
-* pull in  injury and fatality data could shift the focus toward saving lives rather than just reducing cost.
-* make the dashboards more interactive so users can truly explore the data rather than just view it.
+Another improvement would be adding geolocation data to pinpoint the country’s top accident hotspots, normalized by population. That level of precision would allow us to identify not just which states face challenges, but which specific locations need intervention. Finally, I’d expand the dataset to include injury and fatality information so that future analysis could focus more directly on preventing loss of life—not just minimizing cost—and work toward a dashboard that feels more dynamic and exploratory, giving end users the power to interact with the data themselves.
+
